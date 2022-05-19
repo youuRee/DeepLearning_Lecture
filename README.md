@@ -1,1 +1,1 @@
-# DeepLearning_Lecture(Pastcampas)
+# DeepLearning_Lecture(Pastcampus)
